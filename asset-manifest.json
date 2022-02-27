@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Doom-Blog/static/css/main.349f6f39.css",
+    "main.js": "/Doom-Blog/static/js/main.831e5c54.js",
+    "static/js/787.6ac92fbb.chunk.js": "/Doom-Blog/static/js/787.6ac92fbb.chunk.js",
+    "static/media/Chomsky.woff": "/Doom-Blog/static/media/Chomsky.e66954de35b1fb4b2faa.woff",
+    "index.html": "/Doom-Blog/index.html",
+    "main.349f6f39.css.map": "/Doom-Blog/static/css/main.349f6f39.css.map",
+    "main.831e5c54.js.map": "/Doom-Blog/static/js/main.831e5c54.js.map",
+    "787.6ac92fbb.chunk.js.map": "/Doom-Blog/static/js/787.6ac92fbb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.349f6f39.css",
+    "static/js/main.831e5c54.js"
+  ]
+}
