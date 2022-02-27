@@ -1,0 +1,70 @@
+[
+  {
+    "path": "quickfix",
+    "title": "The quickfix on nvim.",
+    "date": "27/feb/22",
+    "prologue": "The quickfix list is useful for navigating to different locations in a <h1>project</h1><br/> such as when reviewing linting warnings, compilation errors, or when conducting a project-wide search.",
+    "content": [
+      {
+        "id": "the quickfix list",
+        "sub_title": "The Quickfix List.",
+        "content": "The quickfix list is useful for navigating to different locations in a <h1>project</h1><br/> such as when reviewing linting warnings, compilation errors, or when conducting a project-wide search."
+      },
+      {
+        "id": "the location",
+        "sub_title": "The Location.",
+        "content": "The quickfix list is useful for navigating to different locations in a <h1>project</h1><br/> such as when reviewing linting warnings, compilation errors, or when conducting a project-wide search."
+      },
+      {
+        "id": "helpful plugins",
+        "sub_title": "Helpful Plugins.",
+        "content": "The quickfix list is useful for navigating to different locations in a <h1>project</h1><br/> such as when reviewing linting warnings, compilation errors, or when conducting a project-wide search."
+      },
+      {
+        "id": "conclusion",
+        "sub_title": "Conclusion",
+        "content": "The quickfix list is useful for navigating to different locations in a <h1>project</h1><br/> such as when reviewing linting warnings, compilation errors, or when conducting a project-wide search."
+      }
+    ],
+    "selectors": [
+      "the quickfix list",
+      "the location",
+      "helpful plugins",
+      "conclusion"
+    ]
+  },
+  {
+    "path": "lsp_nvim",
+    "title": "lsp on neovim",
+    "date": "27/feb/23",
+    "prologue": "The quickfix list is useful for navigating to different locations in a <h1>project</h1><br/> such as when reviewing linting warnings, compilation errors, or when conducting a project-wide search.",
+    "content": [
+      {
+        "id": "the lsp on neovim",
+        "sub_title": "The LSP on neovim",
+        "content": "The quickfix list is useful for navigating to different locations in a <h1>project</h1><br/> such as when reviewing linting warnings, compilation errors, or when conducting a project-wide search."
+      },
+      {
+        "id": "configuration",
+        "sub_title": "Configuration.",
+        "content": "The quickfix list is useful for navigating to different locations in a <h1>project</h1><br/> such as when reviewing linting warnings, compilation errors, or when conducting a project-wide search."
+      },
+      {
+        "id": "helpful plugins",
+        "sub_title": "Helpful Plugins.",
+        "content": "The quickfix list is useful for navigating to different locations in a <h1>project</h1><br/> such as when reviewing linting warnings, compilation errors, or when conducting a project-wide search."
+      },
+      {
+        "id": "conclusion",
+        "sub_title": "Conclusion",
+        "content": "The quickfix list is useful for navigating to different locations in a <h1>project</h1><br/> such as when reviewing linting warnings, compilation errors, or when conducting a project-wide search."
+      }
+    ],
+    "selectors": [
+      "the lsp on neovim.",
+      "configuration.",
+      "helpful plugins",
+      "conclusion"
+    ]
+  }
+]
